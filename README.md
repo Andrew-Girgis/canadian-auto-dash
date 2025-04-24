@@ -25,7 +25,7 @@ This Shiny dashboard analyzes how major global events have affected Canadian aut
 - [`plotly`](https://plotly.com/)
 - [`reactable`](https://glin.github.io/reactable/)
 - [`leaflet`](https://rstudio.github.io/leaflet/)
-- [`manim`](https://www.manim.community/) (for animation)
+- [`manim`](https://www.manim.community/) <!--%(for animation)-->
 
 ## 💡 Motivation
 
