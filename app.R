@@ -115,10 +115,7 @@ ui <- fluidPage(
                   step = 30,  
                   animate = animationOptions(interval = 2500, loop = TRUE)),
       leafletOutput("heatMap", height = "600px"),
-      
-      br(), br(),
-      tags$img(src = "manim_plot.png", height = "500px", style = "display: block; margin-left: auto; margin-right: auto;"),
-      br()
+    
     )
   )
 )
